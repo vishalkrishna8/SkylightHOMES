@@ -1,4 +1,4 @@
-# dreamhome
+## dreamhome
 
 **A real estate website**
 
@@ -37,6 +37,3 @@ Make changes and commit them: git commit -am 'Add new feature'
 Push to the branch: git push origin new-feature
 
 Create a pull request
-
-**License**
-This website is licensed under the MIT License. See the LICENSE file for more information.
