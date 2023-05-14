@@ -1,9 +1,10 @@
 ## DreamHome
 
-
 This is a real estate website that provides a platform for buying, selling, and renting properties. The website offers a user-friendly interface that allows users to easily search for properties, view property details, and contact agents.
 
+
 ## [Live demo](https://dreamhomeorg.vercel.app/)
+
 
 ## Technologies used
 
@@ -27,14 +28,12 @@ To install and run the website locally, follow these steps:
 
 ## Contributing
 
- Contributions to the website are welcome. To contribute, follow these steps:
+Contributions to the website are welcome. To contribute, follow these steps:
 
-1. Fork the repository
+1. Fork the repository Create a new branch: git checkout -b new-feature
 
-2. Create a new branch: git checkout -b new-feature
+2. Make changes and commit them: git commit -am 'Add new feature'
 
-3. Make changes and commit them: git commit -am 'Add new feature'
+3. Push to the branch: git push origin new-feature
 
-4. Push to the branch: git push origin new-feature
-
-5. Create a pull request. 
+4. Create a pull request
