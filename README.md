@@ -27,14 +27,14 @@ To install and run the website locally, follow these steps:
 
 ## Contributing
 
-1. Contributions to the website are welcome. To contribute, follow these steps:
+ Contributions to the website are welcome. To contribute, follow these steps:
 
-2. Fork the repository
+1. Fork the repository
 
-3. Create a new branch: git checkout -b new-feature
+2. Create a new branch: git checkout -b new-feature
 
-4. Make changes and commit them: git commit -am 'Add new feature'
+3. Make changes and commit them: git commit -am 'Add new feature'
 
-5. Push to the branch: git push origin new-feature
+4. Push to the branch: git push origin new-feature
 
-6. Create a pull request
+5. Create a pull request. 
