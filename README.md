@@ -20,19 +20,20 @@ This website was built using the following technologies:
 
 To install and run the website locally, follow these steps:
 
-Clone the repository
+• Clone the repository
 
-Open the website in a browser: http://localhost:3000
+• Open the website in a browser: http://localhost:3000
 
 **Contributing**
 
-Contributions to the website are welcome. To contribute, follow these steps:
+1. Contributions to the website are welcome. To contribute, follow these steps:
 
-Fork the repository
-Create a new branch: git checkout -b new-feature
+2. Fork the repository
 
-Make changes and commit them: git commit -am 'Add new feature'
+3. Create a new branch: git checkout -b new-feature
 
-Push to the branch: git push origin new-feature
+4. Make changes and commit them: git commit -am 'Add new feature'
 
-Create a pull request
+5. Push to the branch: git push origin new-feature
+
+6. Create a pull request
