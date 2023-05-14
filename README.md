@@ -16,7 +16,7 @@ This website was built using the following technologies:
 • JavaScript
 
 
-**Installation**
+## Installation
 
 To install and run the website locally, follow these steps:
 
@@ -24,7 +24,8 @@ To install and run the website locally, follow these steps:
 
 • Open the website in a browser: http://localhost:3000
 
-**Contributing**
+
+## Contributing
 
 1. Contributions to the website are welcome. To contribute, follow these steps:
 
