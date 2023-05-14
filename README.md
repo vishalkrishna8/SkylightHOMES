@@ -5,15 +5,15 @@ This is a real estate website that provides a platform for buying, selling, and 
 
 ## [Live demo](https://dreamhomeorg.vercel.app/)
 
-**Technologies used**
+## Technologies used
 
 This website was built using the following technologies:
 
-HTML
+• HTML
 
-CSS
+• CSS
 
-JavaScript
+• JavaScript
 
 
 **Installation**
