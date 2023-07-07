@@ -38,6 +38,6 @@ Contributions to the website are welcome. To contribute, follow these steps:
 
 4. Create a pull request. 
 
-## Show your support
+#### Show your support
 
 Give a ⭐ if you like this project.
