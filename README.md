@@ -6,7 +6,7 @@ This is a real estate website that provides a platform for buying, selling, and 
 # [Live Site](https://smartestate.vercel.app/)
 
 
-## Technologies used
+#### Technologies used
 
 This website was built using the following technologies:
 
@@ -17,7 +17,7 @@ This website was built using the following technologies:
 • JavaScript
 
 
-## Installation
+#### Installation
 
 To install and run the website locally, follow these steps:
 
