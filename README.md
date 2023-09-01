@@ -16,6 +16,8 @@ This website was built using the following technologies:
 
 • JavaScript
 
+• Bootstrap
+
 
 #### Installation
 
